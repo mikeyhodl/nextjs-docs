@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  // github: 'https://github.com/shuding/nextra',
+  docsRepositoryBase: 'https://github.com/MikeOwino/nextjs-docs',
   titleSuffix: ' – Nextra',
   logo: (
     <>
